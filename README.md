@@ -2,7 +2,7 @@
 
 **Nama:** Annisa Aulia Putri
 **NIM:** 221230026
-**Kelas:** 04B
+**Kelas:** 04A
 
 Repository ini berisikan semua tugas, proyek, dan catatan untuk mata kuliah **Pengantar Machine Learning** Semester Ganjil 2025/2026.
 
