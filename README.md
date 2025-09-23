@@ -1,2 +1,10 @@
-# 221230026-pengantar-ML
-Repository untuk matakuliah Pengantar Machine Learning - Annisa Aulia Putri - 221230026
+# 221230026-Pengantar Machine Learning
+
+**Nama:** Annisa Aulia Putri
+**NIM:** 221230026
+**Kelas:** 04B
+
+Repository ini berisikan semua tugas, proyek, dan catatan untuk mata kuliah **Pengantar Machine Learning** Semester Ganjil 2025/2026.
+
+## Daftar Tugas
+-**Minggu 1:** [Setup Enironment - Hello World](https://colab.research.google.com/github/[221230026-design]/[221230026]-Pengantar-ML/blob/main/Tugas_Minggu_1_Hello_World.ipynb)
